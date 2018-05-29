@@ -1,0 +1,16 @@
+{
+  "name": "spritpreis-statistik",
+  "version": "1.0.0",
+  "description": "a fuel price tracking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "python",
+    "php",
+    "js"
+  ],
+  "author": "Stefan Elsenhuber",
+  "license": "MIT"
+}
