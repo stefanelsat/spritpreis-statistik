@@ -14,7 +14,6 @@ php -S localhost:8080
 http://localhost:8080/execute.php
 ```
 
-
 ## Fetch URLs
 ---------
 
@@ -47,3 +46,10 @@ var obj = {"options":{"fuelType":"DIE","ansichtsType":"Karte","gasAnzeige":"kg",
 # 3. set item to LocalStorage
  localStorage.setItem('jStorage',JSON.stringify(obj))
 ```
+
+## Todo
+[ ] Install suitable selenium driver @ Raspberry Pi
+
+[ ] Install mysql db @ Raspberry Pi
+
+[ ] Set up daily crontab for fetching price tags 
