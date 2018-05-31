@@ -2,6 +2,19 @@
 > This is a app to track the fuel prices in Austria at your town.
 > Based on requests to http://spritpreisrechner.at
 
+## Install
+```bash
+# Python dependencies
+pip install selenium
+
+# Start server
+php -S localhost:8080 
+
+# then redirect to
+http://localhost:8080/execute.php
+```
+
+
 ## Fetch URLs
 ---------
 
